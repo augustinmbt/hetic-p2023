@@ -11,6 +11,6 @@ paragraphe
 |---|---|
 |valeur 1|valeur 2|
 
-[ ]checklist
-[x]done
+-[ ]checklist
+-[x]done
 
